@@ -16,4 +16,4 @@ Full list of remappings:
 * <kbd>o</kbd> → <kbd>PgUp</kbd>
 * <kbd>.</kbd> → <kbd>PgDown</kbd>
 
-For details see (wiki pages)[https://github.com/mmatrosov/KeysRemapper/wiki].
+For details see [wiki pages](https://github.com/mmatrosov/KeysRemapper/wiki).
